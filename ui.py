@@ -167,10 +167,10 @@ class DeezerUi(App):
         self.notify(severity="information",message="account creation process started!")
         time.sleep(1)
         self.genbutton.disabled = True
-        threads = []
+
         for _ in range(int(self.how_many_acc.value)):
             t = threading.Thread(target=self.generate,args=[self.capsolver_key.value,self.domain.value]).start()
-            threads.append(t)
+            time.sleep(float(self.thread_time.value))
 
 
 
