@@ -2,6 +2,8 @@
 
 a deezer account creator with nice ui,also [open for new features](https://github.com/emrovsky/deezer-account-creator/issues/new).
 
+❗️if you have problems using the ui, download [terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) and [set the default windows command prompt](https://streamable.com/mh0z9b) to terminal
+
 ## 💻 Preview
 
 
