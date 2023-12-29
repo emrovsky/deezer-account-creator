@@ -1,0 +1,5 @@
+threading
+textual
+rich_pixels
+requests
+capsolver
