@@ -21,7 +21,7 @@ https://github.com/emrovsky/deezer-account-creator/assets/85563550/eac04b08-e9ff
 
 ## 🌟 Stars to Unlock
 
-- ✅ 25 Stars | Follow account + playlist like
+- ❌ 25 Stars | Follow account + playlist like
 
 
 
